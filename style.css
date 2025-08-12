@@ -30,13 +30,13 @@ color: #e0dfdf;
 header {
 backgronnd - color: #2a2c 39;
 color : #bdc 3c7
-font - family = arial ; sans - serif;
-text - aling center ;
+font - family : arial ; sans - serif;
+text - aling: center ;
 heigh - 100px ;
 margin =  0;
-border : none ;
+border : gome ;
 width : 100%
-display ; flex ;
+display : flex ;
 aling - items : center 
 justify - content: center ;
 }
