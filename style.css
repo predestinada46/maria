@@ -30,11 +30,11 @@ color: #e0dfdf;
 header {
 backgronnd - color: #2a2c 39;
 color : #bdc 3c7
-font - family = arial ; sans - serif
+font - family = arial ; sans - serif;
 text - aling center ;
 heigh - 100px ;
 margin =  0;
-boder : none ;
+border : none ;
 width : 100%
 display ; flex ;
 aling - items : center 
@@ -46,6 +46,6 @@ html, body {
 }
   *{
 margin ; 0;
-  paddino: 0; 
+  padding: 0; 
   box-sizing : border-box;
   }
