@@ -27,7 +27,7 @@ color: #002f6c;
 font-size: 13px;
 color: #e0dfdf;
 }
-header }
+header {
 backgronnd - color: #2a2c 39;
 color : #bdc 3c7
 font - family = arial ; sans - serif
@@ -44,8 +44,8 @@ html, body {
      margiu: 0;
      padding: 0;
 }
-  *}
+  *{
 margin ; 0;
   padding: 0; 
   box-sizing : border-box;
-  {
+  }
